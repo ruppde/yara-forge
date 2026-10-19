@@ -403,7 +403,7 @@ noisy-rules:
       score: 40
     - name: "SECUINFRA_SUSP_Powershell_Base64_Decode"
       quality: -20
-      score: 60
+      score: 35
     - name: "SECUINFRA_SUSP_Scheduled_Tasks_Create_From_Susp_Dir"
       quality: -20
       score: 60
